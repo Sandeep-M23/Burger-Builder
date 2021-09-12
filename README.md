@@ -2,6 +2,7 @@
 
 ### Udemy course project for course 'React 16 - The Complete Guide (incl. React Router 4 and Redux)' taught by Maximilian Schwarzmüller.
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
